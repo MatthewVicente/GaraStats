@@ -1,3 +1,0 @@
-<header>
-    Cabeçalho 
-</header>
